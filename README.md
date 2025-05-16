@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trandainien1&show_icons=true&locale=en" alt="trandainien1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trandainien1&" alt="trandainien1" /></p>
+
+![](https://leetcard.jacoblin.cool/trandainien1?cache=0)
