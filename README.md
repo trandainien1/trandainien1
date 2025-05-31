@@ -22,3 +22,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trandainien1&" alt="trandainien1" /></p>
 
 ![](https://leetcard.jacoblin.cool/trandainien1?cache=0)
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=trandainien1" alt="LeetCode Badges" />
