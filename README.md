@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nien</h1>
 <h3 align="center">A Developer from University Of Science in Ho Chi Minh City - Vietnam</h3>
 
+![](https://leetcard.jacoblin.cool/trandainien1?cache=0)
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=trandainien1" alt="LeetCode Badges" />
+
+<iframe src="https://hackerrank-badge.herokuapp.com/trandainien1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trandainien1&label=Profile%20views&color=0e75b6&style=flat" alt="trandainien1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trandainien1" alt="trandainien1" /></a> </p>
@@ -20,7 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trandainien1&show_icons=true&locale=en" alt="trandainien1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trandainien1&" alt="trandainien1" /></p>
-
-![](https://leetcard.jacoblin.cool/trandainien1?cache=0)
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=trandainien1" alt="LeetCode Badges" />
